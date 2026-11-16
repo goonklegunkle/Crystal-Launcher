@@ -1,0 +1,25 @@
+{
+    "font":{
+        "font": "ariel",
+        "font-size": 15
+    },
+    "home":{
+        "apps":[
+            {
+                "default-name": "Firefox",
+                "display-name": "Firefox",
+                "package": "org.mozilla.firefox"
+            },
+            {
+                "default-name": "Chrome",
+                "display-name": "Chrome",
+                "package": "com.android.chrome"
+            },
+            {
+                "default-name": "YouTube",
+                "display-name": "YouTube",
+                "package": "com.google.android.youtube"
+            }
+        ]
+    }
+}
